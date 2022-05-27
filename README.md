@@ -1,5 +1,4 @@
 # address_project
-
 PHP를 사용하여 회원들의 주소록을 입력 받아 데이터베이스로 저장
 
 ![image](https://user-images.githubusercontent.com/94829177/170488166-e77c0cac-4b78-4495-b180-4a7e56a63287.png)
